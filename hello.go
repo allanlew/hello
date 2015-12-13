@@ -1,6 +1,6 @@
 package main
 
-#test comment
+//test comment
 
 import "fmt"
 
